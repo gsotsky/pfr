@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vir:SPUgetPeriodWorkingZLResponse xmlns:vir="http://kvs.pfr.com/work-fact/1.0.1" xmlns:smev="urn://x-artefacts-smev-gov-ru/supplementary/commons/1.0.1">
+<vir:FamilyName>АЛДРСАЕНХ</vir:FamilyName>
+<vir:FirstName>УБДЩДЕУР</vir:FirstName>
+<vir:Patronymic>ЕТРУЛАДОТМ</vir:Patronymic>
+<vir:Snils>7117960360</vir:Snils>
+<vir:PeriodStart>2019-11-01</vir:PeriodStart>
+<vir:PeriodEnd>2019-11-30</vir:PeriodEnd>
+<vir:Periods>
+<vir:Period>
+<vir:RegNum>52049014129</vir:RegNum>
+<vir:ShortName>УБДЩДЕУР АЛДРСАЕНХ ЕТРУЛАДОТМ</vir:ShortName>
+<vir:ReportYear>2019</vir:ReportYear>
+<vir:ReportMonth>11</vir:ReportMonth>
+<vir:ReportDate>2011-04-15</vir:ReportDate>
+<vir:JobStatus>Д</vir:JobStatus>
+<vir:SourceName>АСВ</vir:SourceName>
+</vir:Period>
+</vir:Periods>
+<vir:ResponseDateTime>2020-06-10T16:19:43</vir:ResponseDateTime>
+</vir:SPUgetPeriodWorkingZLResponse>
